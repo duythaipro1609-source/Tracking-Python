@@ -102,7 +102,7 @@ else:
 print("A bằng B")
 ~~
 A lớn hơn B
-7: Toán tử logic (and, or, not)
+## Toán tử logic (and, or, not)
 Dùng để kết hợp nhiều điều kiện trong câu lệnh điều kiện.
 
 Toán tử and (Đúng khi tất cả các vế đều đúng):
