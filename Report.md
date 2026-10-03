@@ -210,7 +210,7 @@ english_vietnamese_dictionary = {
 "Goodbye": "Tạm biệt"
 }
 
-Truy cập bằng Key hoặc hàm get()
+Truy cập bằng hàm get()
 print(english_vietnamese_dictionary["Hello"])
 print(english_vietnamese_dictionary.get("Goodbye"))
 print(english_vietnamese_dictionary.get("cat", "Từ khóa này không tồn tại"))
