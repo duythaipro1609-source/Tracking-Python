@@ -95,7 +95,7 @@ student_names = ["Nguyên", "Hưng", "Nguyên", "Sáng"]
 print(student_names.count("Nguyên")) # Đếm số lần xuất hiện
 ~~
 
-## Tuple
+## 2.Tuple
 
 Tuple tương tự như List nhưng sử dụng dấu ngoặc tròn (), nhưng không thể thay đổi, thêm, sửa, xóa các phần tử sau khi đã khởi tạo.
 
@@ -109,7 +109,7 @@ print(coordinate[1]) # In phần tử thứ hai
 
 (Lưu ý: Nếu cố gắng gán lại giá trị như `coordinate[1] = 789`, Python sẽ báo lỗi TypeError vì Tuple không hỗ trợ thay đổi).
 
-## Hàm trong Python
+## 3.Hàm trong Python
 
 Hàm là một tập hợp các câu lệnh được gom lại để thực thi một nhiệm vụ, bài toán.
 
@@ -132,7 +132,7 @@ result = add(4, 6)
 print(result)
 ~~
 
-## Câu lệnh điều kiện if, elif, else
+## 4.Câu lệnh điều kiện if, elif, else
 
 Cho phép chương trình rẽ nhánh và ra quyết định dựa trên các điều kiện so sánh.
 
@@ -150,7 +150,7 @@ print("A bằng B")
 
 A lớn hơn B
 
-## Toán tử logic (and, or, not)
+## 5.Toán tử logic (and, or, not)
 
 Dùng để kết hợp nhiều điều kiện trong câu lệnh điều kiện.
 
@@ -198,7 +198,7 @@ print("A không lớn hơn B")
 A không lớn hơn B
 -----------------
 
-## Cấu trúc dữ liệu Dictionary
+## 6.Cấu trúc dữ liệu Dictionary
 
 Dictionary lưu trữ dữ liệu dưới dạng các cặp Key - Value, sử dụng dấu ngoặc nhọn {}. Các Key trong từ điển phải là duy nhất.
 
@@ -222,7 +222,7 @@ Tạm biệt
 Từ khóa này không tồn tại
 -------------------------
 
-## Vòng lặp while
+## 7.Vòng lặp while
 
 Thực thi khối lệnh lặp đi lặp lại miễn là điều kiện kiểm tra còn đúng (True).
 
@@ -243,7 +243,7 @@ Meo meo
 Được rồi tôi cho bạn ăn đây
 ---------------------------
 
-## Vòng lặp for
+## 8.Vòng lặp for
 
 Dùng để duyệt qua từng phần tử của chuỗi, danh sách hoặc một dãy số (range).
 
