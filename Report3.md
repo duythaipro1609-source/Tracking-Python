@@ -25,3 +25,11 @@ print(calc.add(5, 3))
 print(calc.multiply(4, 7))
 ## Class parent
 Trong Python hướng đối tượng, ta hoàn toàn có thể xây dựng các lớp là con của lớp khác, từ đó sử dụng các thuộc tính của lớp Parent để sử dụng và xây dựng 
+
+## Một số phương thức dùng trong class
+__str__() : in ra với kiểu dữ liệu là chuỗi 
+__repr__(): hiển thị kiểu dữ liệu dành cho nhà phát triển
+__add__(): phương thức này giúp cộng 2 thuộc tính có kiểu dữ liệu là math 
+__len()__: Phương thức dùng để in ra số lượng phần tử của chuỗi 
+__it__() : Phương thức dùng để so sánh 2 thuộc tính có kiểu dữ liệu là toán 
+__name__ (): Phương thức dùng để kiểm tra xem phần tử chuỗi có nằm trong đối tượng hay kh 
